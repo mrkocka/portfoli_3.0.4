@@ -1,0 +1,29 @@
+ <!--Alap Csomag-->
+                <div class="box">
+                    <div class="page1"><i class="careIcon far fa-file"></i></div>
+                    <h4 class="headingsCard">ALAPCSOMAG</h4>
+                    <h3 class="price">60 000 ft-tól</h3>
+                    <p>
+                      Egyszerű kis oldal mely ideális portfolió oldalakhoz, kisebb online kampányok önálló oldalához. Az egyéni vállalkozók kedvence. 
+                    </p>
+                </div>
+            <!--Közepes Csomag-->
+                <div class="box">
+                    <div class="page1"><i class="careIcon far fa-file-alt"></i></div>
+                    <h4 class="headingsCard">KÖZEPES CSOMAG</h4>
+                    <h3 class="price">80 000 ft-tól</h3>
+                    <p>
+                        Ez a csomag a legjobb választás induló vállalkozásoknak, de több szerzős blogok számára is remek kiindulást jelenthet. Több oldalból álló komplex weblap, amelybe minden elfér.                   </p>
+                    </p>
+                </div>
+            <!--Nagy Csomag-->
+        
+                <div class="box">
+                    <div class="page1"><i class="careIcon far fa-file-alt"></i></div>
+                    <h4 class="headingsCard">NAGY CSOMAG</h4>
+                    <h3 class="price">100.000 ft-tól</h3>
+                    <p>
+                        Komplex több lehetőséget felvonultató oldalszerkezet. Az ár tartalmazza a weblap készítéséhez használt plugin-ok rendszeres frissítését. Látványos plusz bővítményekkel igazán egyedi oldal vár a kedves megrendelőre. 
+                   </p>
+                   
+                </div>
