@@ -44,6 +44,9 @@
 
 /*Portfolió Gallery*/
 
+.gallery{
+    width: 100%;
+}
 
 .selectButton{
     /* background-color: rgba(128, 128, 128, 0.411);  */
